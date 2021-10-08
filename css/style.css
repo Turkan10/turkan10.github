@@ -1,6 +1,34 @@
 h1
 {
-background-color: darkorchid;
+background-color: lightblue;
+font-size: 2em;
+font-style: oblique;
+}
+
+h2
+{
+    font-size: larger;
+    font-style: oblique;
+
+}
+
+
+h3
+{
+font-size: larger;
+font-style: oblique;
+
+}
+
+h4
+{
+font-size: larger;
+font-style: oblique;
+}
+*{
+
+font-size: large;
+font-style: oblique;
 }
 
 
